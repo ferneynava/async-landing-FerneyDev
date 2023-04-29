@@ -1,0 +1,27 @@
+{
+  "name": "ferneynava-async-landing-ferneynavadev",
+  "version": "1.0.0",
+  "description": "<!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ferneynava/ferneynava-async-landing-FerneyNavaDev.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ferneynava/ferneynava-async-landing-FerneyNavaDev/issues"
+  },
+  "homepage": "https://github.com/ferneynava/ferneynava-async-landing-FerneyNavaDev#readme",
+  "devDependencies": {
+    "standard": "^17.0.0"
+  },
+  "eslintConfig": {
+    "extends": "./node_modules/standard/eslintrc.json"
+  }
+
+}
