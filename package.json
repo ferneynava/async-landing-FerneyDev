@@ -4,7 +4,7 @@
   "description": "<!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "deploy": "gh-pages -d src"
   },
   "repository": {
     "type": "git",
@@ -18,10 +18,11 @@
   },
   "homepage": "https://github.com/ferneynava/ferneynava-async-landing-FerneyNavaDev#readme",
   "devDependencies": {
-    "standard": "^17.0.0"
+    "eslint": "8.39.0",
+    "gh-pages": "^5.0.0",
+    "standard": "17.0.0"
   },
   "eslintConfig": {
     "extends": "./node_modules/standard/eslintrc.json"
   }
-
 }
