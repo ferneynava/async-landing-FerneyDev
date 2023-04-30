@@ -14,7 +14,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/ferneynava/async-landing-FerneDev">
+  <a href="https://github.com/ferneynava/async-landing-FerneyDev">
     <img src="./src/public/112-book-morph-linealtrans.gif" alt="Logo" width="90" height="90">
   </a>
 
@@ -23,14 +23,14 @@
   <p align="center">
     Implementación de una Landing de portafolio utilizando una API de Youtube. 
     <br />
-    <a href="https://github.com/ferneynava/async-landing-FerneDev"><strong>Explore los documentos »</strong></a>
+    <a href="https://github.com/ferneynava/async-landing-FerneyDev"><strong>Explore los documentos »</strong></a>
     <br />
     <br />
-    <a href=https://ferneynava.github.io/async-landing-FerneyDev/">Ver demostración</a>
+    <a href="https://ferneynava.github.io/async-landing-FerneyDev/">Ver demostración</a>
     ·
-    <a href="https://github.com/ferneynava/async-landing-FerneDev/issues">Reportar error</a>
+    <a href="https://github.com/ferneynava/async-landing-FerneyDev/issues">Reportar error</a>
     ·
-    <a href="https://github.com/ferneynava/async-landing-FerneDev/issues">Solicitar función</a>
+    <a href="https://github.com/ferneynava/async-landing-FerneyDev/issues">Solicitar función</a>
   </p>
 </div>
 
@@ -117,16 +117,16 @@ Project Link: [https://github.com/ferneynava/async-landing-FerneDev](https://git
 <p align="right">(<a href="#readme-top">volver arriba</a>)</p>
 
 
-[contributors-shield]: https://img.shields.io/github/contributors/ferneynava/async-landing-FerneDev.svg?style=for-the-badge
-[contributors-url]: https://github.com/ferneynava/async-landing-FerneDev/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/ferneynava/async-landing-FerneDev.svg?style=for-the-badge
-[forks-url]: https://github.com/ferneynava/async-landing-FerneDev/network/members
-[stars-shield]: https://img.shields.io/github/stars/ferneynava/async-landing-FerneDev.svg?style=for-the-badge
-[stars-url]: https://github.com/ferneynava/async-landing-FerneDev/stargazers
-[issues-shield]: https://img.shields.io/github/issues/ferneynava/async-landing-FerneDev.svg?style=for-the-badge
-[issues-url]: https://github.com/ferneynava/async-landing-FerneDev/issues
-[license-shield]: https://img.shields.io/github/license/ferneynava/async-landing-FerneDev.svg?style=for-the-badge
-[license-url]: https://github.com/ferneynava/async-landing-FerneDev/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/ferneynava/async-landing-FerneyDev.svg?style=for-the-badge
+[contributors-url]: https://github.com/ferneynava/async-landing-FerneyDev/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/ferneynava/async-landing-FerneyDev.svg?style=for-the-badge
+[forks-url]: https://github.com/ferneynava/async-landing-FerneyDev/network/members
+[stars-shield]: https://img.shields.io/github/stars/ferneynava/async-landing-FerneyDev.svg?style=for-the-badge
+[stars-url]: https://github.com/ferneynava/async-landing-FerneyDev/stargazers
+[issues-shield]: https://img.shields.io/github/issues/ferneynava/async-landing-FerneyDev.svg?style=for-the-badge
+[issues-url]: https://github.com/ferneynava/async-landing-FerneyDev/issues
+[license-shield]: https://img.shields.io/github/license/ferneynava/async-landing-FerneyDev.svg?style=for-the-badge
+[license-url]: https://github.com/ferneynava/async-landing-FerneyDev/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/ferney-alexander-nava-trujillo-0478a8118/
 [product-screenshot]: /src/public/Captura%20de%20pantalla%202023-04-30%20171447.png
