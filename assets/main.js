@@ -29,7 +29,7 @@ async function fetchData (urlApi) {
           </div> 
         
           <div class="mt-4 flex justify-between">
-            <h3 class="text-sm text-gray-700">
+            <h3 class="text-sm dark:text-slate-300">
             <span aria-hidden="true" class="absolute inset-0"></span>
             ${video.snippet.title}
             </h3>
