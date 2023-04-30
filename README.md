@@ -15,7 +15,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/ferneynava/async-landing-FerneDev">
-    <img src="./images/112-book-morph-linealtrans.gif" alt="Logo" width="90" height="90">
+    <img src="./src/public/112-book-morph-linealtrans.gif" alt="Logo" width="90" height="90">
   </a>
 
   <h3 align="center">Proyecto de asincronismo API</h3>
@@ -26,7 +26,7 @@
     <a href="https://github.com/ferneynava/async-landing-FerneDev"><strong>Explore los documentos »</strong></a>
     <br />
     <br />
-    <a href="https://ferneynava.github.io/async-landing-FerneDev/">Ver demostración</a>
+    <a href=https://ferneynava.github.io/async-landing-FerneyDev/">Ver demostración</a>
     ·
     <a href="https://github.com/ferneynava/async-landing-FerneDev/issues">Reportar error</a>
     ·
@@ -70,7 +70,6 @@ He desarrollado un Landing como parte de mi portafolio en fase beta, que destaca
 
 - ![html]
 - ![css]
-- ![Vue]
 - ![npm]
 - ![js]
 - ![eslint]
