@@ -19,7 +19,7 @@
   "homepage": "https://github.com/ferneynava/ferneynava-async-landing-FerneyNavaDev#readme",
   "devDependencies": {
     "eslint": "8.39.0",
-    "gh-pages": "^5.0.0",
+    "gh-pages": "5.0.0",
     "standard": "17.0.0"
   },
   "eslintConfig": {
